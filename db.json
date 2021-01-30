@@ -1,0 +1,204 @@
+{
+  "bg": "https://4.bp.blogspot.com/-KhyFeim3qUQ/WxFnJo-twOI/AAAAAAAAQP8/njNaXTzcm0MF_pR93LUI1axpbl2Tt43eQCLcBGAs/s1600/1.gif",
+  "bg2": "https://4.bp.blogspot.com/-efeMP-mXNgU/Vi5mttBJvDI/AAAAAAAAB40/mDvM5A4ZvRE/s1600/caverna_do_dragao2.jpg",
+  "bg3": "https://2.bp.blogspot.com/-F8Hu8oDXP1E/WF0BH8C6lkI/AAAAAAAAYM8/-8WdlmWAGmEOgAoeiY7D1kkmVLyIZ8FHgCLcB/s1600/Gifs%2Banimados%2BCaverna%2Bdo%2BDrag%25C3%25A3o%2B3.gif",
+  "title": "Quiz da Caverna do Dragão",
+  "description": "Quiz para verificar seu conhecimento sobre a Caverna do Dragão",
+  "questions": [
+    {
+      "image": "https://i.pinimg.com/originals/f9/52/95/f95295dd0169411c12105fd0790ff31f.gif",
+      "title": "A série animada Caverna do Dragão foi baseada em ...",
+      "description": "Pergunta fácil em!",
+      "answer": 0,
+      "alternatives": [
+        "um jogo de RPG chamado Dungeons and Dragons",
+        "um livro da Clarice Lispector",
+        "um filme de ação do Jackie Chan",
+        "uma novela das 8 que passa as 9"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/aa2d03f51fc2a9a4c6024baa6142bcd5/tenor.gif?itemid=19648091",
+      "title": "Quem eram os protagonistas?",
+      "description": "Dica: Eram seis ao todo",
+      "answer": 1,
+      "alternatives": [
+        "Rank, Robby, Henry, Alberto, Camila e Xeila",
+        "Hank, Bobby, Eric, Presto, Sheila e Diana",
+        "Tiana, Camila, Roberta, Carlos, Toby e Ken",
+        "Tom, Henrique, Carlos, John, Asheley e Broke"
+      ]
+    },
+    {
+      "image": "https://i.makeagif.com/media/7-12-2016/NMMSo5.gif",
+      "title": "Quem era o arqueiro entre os protagonistas?",
+      "description": "Dica: Não sou eu",
+      "answer": 3,
+      "alternatives": [
+        "Bobby",
+        "Diana",
+        "Sheila",
+        "Hank"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/0473f2da60f44fe222c1aaf84f0341d9/tenor.gif?itemid=17981946",
+      "title": "Quem era a Uni?",
+      "description": "Dica: Uuuniiii!!!",
+      "answer": 2,
+      "alternatives": [
+        "Era o pégaso negro do Vingador",
+        "Era a irmã mais velha do Bobby",
+        "Era a unicórnio que sempre andava ao lado de Bobby",
+        "Era uma espiã do Vingador"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/9de6ed0809ebbb88e698f5aec37e6366/tenor.gif?itemid=19647345",
+      "title": "Quem era o Vingador?",
+      "description": "Dica: Ele era mau",
+      "answer": 3,
+      "alternatives": [
+        "Era o melhor amigo de Hank",
+        "Era o servo de Tiamat",
+        "Era o irmão do Mestre dos Magos",
+        "Era o principal antagonista da série. Era um feiticeiro maléfico com grandes habilidades místicas."
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/120ba52f634cdbf745a929a9e845a63b/tenor.gif?itemid=19648065",
+      "title": "Qual protagonista principal empunhava uma espada como arma padrão?",
+      "description": "Dica: Difícil",
+      "answer": 2,
+      "alternatives": [
+        "Duque o Guerreiro",
+        "Dekion, o cavaleiro celestial do Grupo Místico",
+        "Nenhum dos protagonistas principais empunhava uma espada",
+        "Raja, o guerreiro do deserto"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/f8fefc888a09732be679a0d3889a9612/tenor.gif?itemid=17988514",
+      "title": "Quem era Diana?",
+      "description": "Dica: Habilidosa",
+      "answer": 0,
+      "alternatives": [
+        "Era a acrobata e possuia um bastão mágico como arma",
+        "Era uma espiã do Vingador",
+        "Era a arqueira",
+        "Era a irmã mais velha de Bobby e usava a capa da invisibilidade"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/fea1f92d39090c4a8e146768bb7cab14/tenor.gif?itemid=17929810",
+      "title": "Quem era Tiamat",
+      "description": "Dica: Era o mais forte",
+      "answer": 1,
+      "alternatives": [
+        "Era a irmã de Hank",
+        "Era uma das antagonistas da série. Era uma Deusa Dragoa de cinco cabeças e guardiã do cemitério dos dragões",
+        "Era uma protagonista da série. Era uma unicórnio que sempre ajudava o grupo",
+        "Era uma Deusa unicórnio e guardiã do cemitério dos dragões"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/eac9b9f38a7801b407e59cc927c27e0d/tenor.gif?itemid=19649940",
+      "title": "Quem era Sheila?",
+      "description": "Dica: Agora você vê agora não vê mais",
+      "answer": 0,
+      "alternatives": [
+        "Era a irmã mais velha do Bobby e usava uma capa da invisibilidade",
+        "Era a irmã da Diana e empunhava uma faca",
+        "Era a prima do Bobby e usava um bastão",
+        "Era a filha do Mestre dos Magos e usava um chapéu de magia"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/e976528d935bd63b20b97bfd72254e7a/tenor.gif?itemid=19647690",
+      "title": "Quem era o Mestre dos Magos?",
+      "description": "Dica: Mestre dos Magos? Mestre dos Magos? Ué pra onde ele foi?",
+      "answer": 1,
+      "alternatives": [
+        "Era o principal vilão da história e desde o começo lutava contra os heróis",
+        "Era um poderoso mago e guia para os protagonistas, lhes dando armas no início da aventura e tentando ajudá-los a voltar para casa",
+        "Era um cúmplice do Vingador e sempre lutava ao lado dele",
+        "Era um poderoso mago das trevas"
+      ]
+    },
+    {
+      "image": "https://thumbs.gfycat.com/WelloffMaleIbadanmalimbe-small.gif",
+      "title": "Quais deles usavam um escudo, um bastão, um tacape e um chapéu de mágia, respectivamente?",
+      "description": "Dica: Complicou",
+      "answer": 1,
+      "alternatives": [
+        "Hank, Mestre do Magos, Vingador e Presto",
+        "Eric, Diana, Bobby e Presto",
+        "Eric, Bobby, Sheila e Diana",
+        "Vingador, Mestre dos Magos, Tiamat e Uni"
+      ]
+    },
+    {
+      "image": "https://blog.imaginarium.com.br/wp-content/uploads/2017/03/Unicornio-Caverna-do-Dragao_destaque.gif",
+      "title": "Quantos episódios e temporadas a série animada possui?",
+      "description": "Dica: São mais do que dois episódios",
+      "answer": 3,
+      "alternatives": [
+        "20 episódios e 2 temporadas",
+        "27 episódios e 2 temporadas",
+        "32 episódios e 3 temporadas",
+        "27 episódios e 3 temporadas"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/afff7be9b90c4a2b0a0ac052469715d5/tenor.gif?itemid=19649990",
+      "title": "Como os protagonistas foram parar no Reino?",
+      "description": "Dica: Era um dia normal",
+      "answer": 1,
+      "alternatives": [
+        "Foram arrastados por um buraco dimensional que apareceu na escola",
+        "Entraram em um portal que apareceu durante o passeio na montanha russa",
+        "Atravessaram um espelho mágico que estava no circo",
+        "Nenhuma das opções anteriores"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/8bfa7edddee418722fa8c769c646b160/tenor.gif?itemid=19595109",
+      "title": "Em qual ano a série animada estreiou no Brasil?",
+      "description": "Dica: Vamos ver se Consegue lembrar",
+      "answer": 0,
+      "alternatives": [
+        "Em 1986",
+        "Em 1996",
+        "Em 1983",
+        "Em 1988"
+      ]
+    },
+    {
+      "image": "https://media1.tenor.com/images/c9e86b9d377c55354e87ac0dc2205864/tenor.gif?itemid=19603451",
+      "title": "Quem era o filho do Mestre dos Magos?",
+      "description": "Dica: Sim, é ele mesmo!",
+      "answer": 1,
+      "alternatives": [
+        "Tiamat",
+        "Vingador",
+        "Hank",
+        "Presto"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#ee6220",
+      "secondary": "#e89c3f",
+      "mainBg": "#1f0f0f",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
