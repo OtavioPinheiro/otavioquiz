@@ -132,6 +132,57 @@ export default function Home() {
             </ul>
           </Widget.Content>
         </Widget>
+
+        <ExtraContainer>
+          <Container
+            as={motion.section}
+            transition={{ delay: 0.75, duration: 0.75 }}
+            variants={{
+              show: { opacity: 1, y: '0' },
+              hidden: { opacity: 0, y: '100%' },
+            }}
+            initial="hidden"
+            animate="show"
+          >
+            <Container.Header>
+              <h1>Assista a todos os episódios!</h1>
+            </Container.Header>
+            <VideoCard 
+              videoTitle={`Caverna do Dragão Todos os Episódios Completos Dublado HD`}
+              videoURL={`https://www.youtube.com/watch?v=5fLMmDxrEUQ&t=148s&ab_channel=EngenheiroDelmedVeras`}
+              categoryColor={db.theme.colors.primary}
+            />
+          </Container>
+
+          <Container
+            as={motion.section}
+            transition={{ delay: 1, duration: 0.75 }}
+            variants={{
+              show: { opacity: 1, x: '0' },
+              hidden: { opacity: 0, x: '100%' },
+            }}
+            initial="hidden"
+            animate="show"
+          >
+            <Container.Header>
+              <h1>Leia o último episódio!</h1>
+            </Container.Header>
+            <Container.Content>
+              <ul>
+                <li>
+                  <Container.Topic
+                    as={Link}
+                    href={`http://complexogeek.com/2013/08/20/o-verdadeiro-final-de-a-caverna-do-dragao-em-quadrinhos/`}
+                    target="_blank"
+                  >
+                    Requiem: O último episódio da Caverna do Dragão!
+                  </Container.Topic>
+                </li>
+              </ul>
+            </Container.Content>
+          </Container>
+        </ExtraContainer>
+
         <Footer
           as={motion.footer}
           transition={{ delay: 0.5, duration: 0.5 }}
@@ -142,58 +193,8 @@ export default function Home() {
           initial="hidden"
           animate="show"
         />
+
       </QuizContainer>
-
-      <ExtraContainer>
-        <Container
-          as={motion.section}
-          transition={{ delay: 0.75, duration: 0.75 }}
-          variants={{
-            show: { opacity: 1, y: '0' },
-            hidden: { opacity: 0, y: '100%' },
-          }}
-          initial="hidden"
-          animate="show"
-        >
-          <Container.Header>
-            <h1>Assista a todos os episódios!</h1>
-          </Container.Header>
-          <VideoCard 
-            videoTitle={`Caverna do Dragão Todos os Episódios Completos Dublado HD`}
-            videoURL={`https://www.youtube.com/watch?v=5fLMmDxrEUQ&t=148s&ab_channel=EngenheiroDelmedVeras`}
-            categoryColor={db.theme.colors.primary}
-          />
-        </Container>
-
-        <Container
-          as={motion.section}
-          transition={{ delay: 1, duration: 0.75 }}
-          variants={{
-            show: { opacity: 1, x: '0' },
-            hidden: { opacity: 0, x: '100%' },
-          }}
-          initial="hidden"
-          animate="show"
-        >
-          <Container.Header>
-            <h1>Leia o último episódio!</h1>
-          </Container.Header>
-          <Container.Content>
-            <ul>
-              <li>
-                <Container.Topic
-                  as={Link}
-                  href={`http://complexogeek.com/2013/08/20/o-verdadeiro-final-de-a-caverna-do-dragao-em-quadrinhos/`}
-                  target="_blank"
-                >
-                  Requiem: O último episódio da Caverna do Dragão!
-                </Container.Topic>
-              </li>
-            </ul>
-          </Container.Content>
-        </Container>
-      </ExtraContainer>
-
       <GitHubCorner projectUrl="https://github.com/OtavioPinheiro" />
     </QuizBackground>
   );
