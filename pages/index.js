@@ -184,6 +184,7 @@ export default function Home() {
                 <Container.Topic
                   as={Link}
                   href={`http://complexogeek.com/2013/08/20/o-verdadeiro-final-de-a-caverna-do-dragao-em-quadrinhos/`}
+                  target="_blank"
                 >
                   Requiem: O último episódio da Caverna do Dragão!
                 </Container.Topic>
