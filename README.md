@@ -7,7 +7,7 @@
 Esse é um projeto que foi desenvolvido durante a [imersão React Next da Alura.](https://www.alura.com.br/imersao-react-next-js/aula05-nextjs-framer-motion)
 
 ## Prévia do projeto
-![previa](_doc/CavernaDoDragaoQuiz.gif)
+![previa](_doc/dnd.gif)
 
 ## Licença
 Esse projeto possui a licença MIT. Para mais informações, acesse [MIT-License](https://mit-license.org/)
