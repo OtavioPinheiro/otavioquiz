@@ -149,7 +149,7 @@ export default function Home() {
             </Container.Header>
             <VideoCard 
               videoTitle={`Caverna do Dragão Todos os Episódios Completos Dublado HD`}
-              videoURL={`https://www.youtube.com/watch?v=5fLMmDxrEUQ&t=148s&ab_channel=EngenheiroDelmedVeras`}
+              videoURL={`https://www.youtube.com/watch?v=qPMoOL499JE`}
               categoryColor={db.theme.colors.primary}
             />
           </Container>
